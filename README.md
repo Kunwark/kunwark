@@ -72,12 +72,11 @@ Welcome to my GitHub! I'm a results-driven Product Manager with **9+ years of ex
 
 - 🎓 **MBA** - SZABIST, Karachi (2021-2024)
 - 🎓 **Bachelor of Computer Science** - Virtual University of Pakistan (2015-2020)
-- 🎨 **Diploma in Fine Arts (Graphic Design)** - Arts Council Karachi (2010-2014)
+- 🎨 **Diploma in Fine Arts (Visual Communication)** - Arts Council Karachi (2010-2014)
 
 **Certifications:**
 - 🏅 Advanced Certified Scrum Product Owner® (A-CSPO®)
 - 🏅 Certified Scrum Product Owner® (CSPO®)
-- 🏅 IELTS - 8.0 Band Score
 
 ---
 
